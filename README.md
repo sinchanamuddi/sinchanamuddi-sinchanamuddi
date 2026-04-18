@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=36BCF7&center=true&vCenter=true&width=500&lines=Machine+Learning+&+Gen+AI+Engineer;Python+%7C+Deep+Learning+%7C+Generative+AI;Turning+Data+into+Insights" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=36BCF7&center=true&vCenter=true&width=500&lines=Machine+Learning+%26+Gen+AI+Engineer;Python+%7C+Deep+Learning+%7C+Generative+AI;Turning+Data+into+Insights" />
 </p>
 
 <h1 align="center">👩‍💻 Sinchana M</h1>
