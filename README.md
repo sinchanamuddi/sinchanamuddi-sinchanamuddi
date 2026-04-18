@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=36BCF7&center=true&vCenter=true&width=5000&lines=Aspiring+Data+Analyst;Python+%7C+Data+Analysis+%7C+Visualization;Turning+Data+into+Insights" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=36BCF7&center=true&vCenter=true&width=500&lines=Aspiring+Data+Analyst;Python+%7C+Data+Analysis+%7C+Visualization;Turning+Data+into+Insights" />
 </p>
 
 <h1 align="center">👩‍💻 Sinchana M</h1>
