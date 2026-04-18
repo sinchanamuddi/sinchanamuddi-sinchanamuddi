@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
 
-Aspiring Data Analyst | Python · Data Analysis · Visualization
+Aspiring Data Analyst · Python · Data Analysis · Visualization
 
 Turning data into insights through real-world analysis projects
 
