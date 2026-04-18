@@ -1,4 +1,4 @@
-aishwarya = {
+sinchana M = {
     "role"       : "AI/ML Engineer",
     "education"  : "B.E. CSD (AI/ML) @ VTU | CGPA 8.5",
     "currently"  : "AI/ML Intern @ Contriver",
