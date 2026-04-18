@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=36BCF7&center=true&vCenter=true&width=500&lines=Aspiring+Data+Analyst;Python+%7C+Data+Analysis+%7C+Visualization;Turning+Data+into+Insights" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=36BCF7&center=true&vCenter=true&width=500&lines=Machine+Learning+&+Gen+AI+Engineer";Python+%7C+Deep+Learning+%7C+Generative+AI;Turning+Data+into+Insights" />
 </p>
 
 <h1 align="center">👩‍💻 Sinchana M</h1>
@@ -32,9 +32,10 @@ Aspiring Web Development · Python · Data Analysis · AI&ML· Gen AI
 
 ## 🎯 What I Do
 
-* 📊 Analyze real-world datasets
-* 🧠 Extract insights using Python
-* 📈 Build data-driven reports & dashboards
+* 🧠 Architecting & deploying Machine Learning models
+* ⚡ Building Generative AI applications and system integrations
+* 🚀 Engineering end-to-end AI workflows
+* 📊 Leveraging data-driven insights for real-world automation
 
 ---
 
@@ -48,55 +49,37 @@ Aspiring Web Development · Python · Data Analysis · AI&ML· Gen AI
   <img src="https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge"/>
 </p>
 
----
 
-## 🚀 Featured Projects
+🚀 Featured Projects
+🤖 Automated Marketing Budget Allocation
+Lead Developer & System Architect
+Optimized E-commerce ad spend using predictive machine learning models to maximize ROI and marketing efficiency.
 
-### 📈 Employee Salary Analysis
+✔ Designed end-to-end ML workflow and architecture
+✔ Implemented predictive algorithms to forecast budget impact
+✔ Streamlined decision-making for marketing strategies
 
-Analyzed salary patterns across roles and departments
+👉 [Link to Project Repository]
 
-✔ Identified pay distribution trends
-✔ Compared department-wise salaries
-✔ Extracted meaningful insights
+🏥 Healthcare Data & AI Integration
+Analyzed patient diagnostic patterns to derive predictive health insights.
 
-👉 https://github.com/sinchanamuddi/Cognetix_Employee_Salary_Analysis
-
----
-
-### 🎬 Movie Ratings Analysis
-
-Explored audience preferences and top-performing genres
-
-✔ Identified high-rated genres
-✔ Analyzed rating distributions
-✔ Discovered key viewing trends
-
-👉 https://github.com/sinchanamuddi/Cognetix_Movie_Ratings_Analysis
-
----
-
-### 🌦️ Weather Data Analysis
-
-Analyzed historical weather data
-
-✔ Identified seasonal patterns
-✔ Studied temperature variations
-
-👉 https://github.com/sinchanamuddi/Cognetix_Weather_Data_Analysis
-
----
-
-### 🏥 Healthcare Data Analysis
-
-Analyzed patient data for trends
-
-✔ Identified common diseases
-✔ Studied demographic risk factors
+✔ Developed data-driven models for patient risk stratification
+✔ Applied advanced preprocessing for healthcare dataset integration
+✔ Visualized complex trends to support clinical decision-making
 
 👉 https://github.com/sinchanamuddi/Cognetix_Healthcare_Patient_Data-Analysis
 
----
+📈 Foundational Data Science Projects
+A collection of analytical frameworks and models built during my journey.
+
+Employee Salary Analysis: Predictive patterns in pay distribution.
+
+Movie Ratings Analysis: Genre preference modeling.
+
+Weather Data Analysis: Historical trend identification.
+
+👉 View All Repositories
 
 ## 📫 Connect
 
