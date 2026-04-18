@@ -5,7 +5,7 @@
 <h1 align="center">👩‍💻 Sinchana M</h1>
 
 <p align="center">
-Aspiring Data Analyst · Python · Data Analysis · Visualization
+Aspiring Web Development · Python · Data Analysis · AI&ML· Gen AI 
 </p>
 
 <p align="center">
