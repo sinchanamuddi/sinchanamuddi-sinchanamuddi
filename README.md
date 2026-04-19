@@ -1,75 +1,97 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=36BCF7&center=true&vCenter=true&width=650&lines=AI+%26+ML+Engineer;Python+%7C+Deep+Learning+%7C+GenAI;Turning+Data+into+Insights" />
-</p>
+<div align="center">
 
-<h1 align="center">👩‍💻 Sinchana M</h1>
+# Sinchana M
+### Senior ML Engineer · GenAI Systems Architect · Full-Stack AI
 
-<p align="center">
-  <b>ML & Gen AI Intern @ Contriver Technologies</b>
-  <br>
-  <i>Building intelligent systems & scalable AI solutions</i>
-</p>
+*Building production-grade AI systems at the intersection of machine learning,*
+*generative AI, and scalable web architecture.*
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sinchana-m-sd)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://sinchanamuddi.github.io)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sinchanamuddi@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=sinchanamuddi&color=0A66C2&style=flat)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-</p>
+</div>
 
 ---
 
-## 🛠️ My Technical Arsenal
+## About me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,mongodb,react,nodejs,docker,vscode,git" />
-</p>
+I architect and deploy end-to-end machine learning systems — from raw data ingestion and feature engineering through model training, evaluation, and production deployment. Currently focused on **Generative AI integration**, building intelligent pipelines that automate complex business decisions across domains including healthcare, e-commerce, finance, and operations.
 
----
-
-## 🎯 What I Do
-* 🧠 **Architecting & deploying** Machine Learning models
-* ⚡ **Building** Generative AI applications and system integrations
-* 🚀 **Engineering** end-to-end AI workflows
-* 📊 **Leveraging** data-driven insights for real-world automation
+I believe the best ML systems are invisible — they just work, reliably, at scale.
 
 ---
 
-## 🚀 Featured Projects
+## Technical expertise
 
-### 🤖 Automated Marketing Budget Allocation
-*Lead Developer & System Architect*
-Optimized E-commerce ad spend using predictive machine learning models to maximize ROI.
-* **Key Tech:** Python, Scikit-learn, Streamlit, Pandas
-* **Impact:** Designed a full ML pipeline to forecast budget impact and streamline marketing decisions.
-* 👉 **[View Project Repository](YOUR_LINK_HERE)**
+**Machine Learning & AI**
+`Python` `Scikit-learn` `Pandas` `NumPy` `Streamlit` `LangChain` `Predictive Modelling` `Risk Stratification` `EDA`
 
-### 🏥 Healthcare Data & AI Integration
-Analyzed patient diagnostic patterns to derive predictive health insights.
-* **Key Tech:** Python, Matplotlib, Data Preprocessing
-* **Impact:** Developed risk stratification models to support clinical decision-making.
-* 👉 [View Healthcare Project](https://github.com/sinchanamuddi/Cognetix_Healthcare_Patient_Data-Analysis)
+**Full-Stack Engineering**
+`React` `Node.js` `Express.js` `MongoDB` `REST APIs` `JavaScript`
 
-### 📈 Foundational Data Science
-* **Employee Salary Analysis:** Predictive pay distribution patterns.
-* **Movie Ratings Analysis:** Genre preference modeling.
-* **Weather Data Analysis:** Historical trend identification.
-* 👉 [View All Repositories](https://github.com/sinchanamuddi?tab=repositories)
+**Data & Tooling**
+`SQL` `Matplotlib` `Seaborn` `Jupyter` `Git` `GitHub Actions`
 
 ---
 
-## 📊 GitHub Stats
+## Featured projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sinchanamuddi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinchanamuddi&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### Automated Marketing Budget Allocation
+> End-to-end ML pipeline that forecasts advertising spend impact and optimises e-commerce ROI. Designed a full predictive system — from data preprocessing through model selection to a live Streamlit dashboard — enabling marketing teams to make data-driven budget decisions.
+
+`Python` `Scikit-learn` `Streamlit` `Pandas` `Regression Modelling`
+[View repository →](https://github.com/sinchanamuddi)
 
 ---
 
-## 📫 Let's Connect
-📧 [sinchanamuddi@gmail.com](mailto:sinchanamuddi@gmail.com)
-🔗 [https://linkedin.com/in/sinchana-m-sd]
+### Healthcare Patient Risk Stratification
+> Analysed patient diagnostic patterns across demographic cohorts to build risk stratification models that support clinical decision-making. Developed preprocessing pipelines for messy medical datasets and visualisation layers that make model outputs interpretable to non-technical stakeholders.
 
-<p align="center">
-✨ Learning | Building | Growing ✨
-</p>
+`Python` `Matplotlib` `Data Preprocessing` `Classification` `Healthcare Analytics`
+[View repository →](https://github.com/sinchanamuddi/Cognetix_Healthcare_Patient_Data-Analysis)
+
+---
+
+### MERN Quiz Analytics Platform
+> Full-stack platform with a real-time quiz engine, user performance tracking, and an analytics dashboard. Built the complete application — schema design, REST API, React frontend — as a single cohesive system.
+
+`MongoDB` `Express.js` `React` `Node.js` `Full-Stack`
+[View repository →](https://github.com/sinchanamuddi/MERN-quiz-analytics-platform)
+
+---
+
+### Business Intelligence Suite (4 domains)
+> Independent ML-driven analytics across supply chain operations, customer retention, credit card spending behaviour, and insurance claims. Each project delivers EDA, feature engineering, model training, and actionable insight reports.
+
+`Python` `EDA` `Predictive Analytics` `Classification` `Regression`
+[View repositories →](https://github.com/sinchanamuddi?tab=repositories)
+
+---
+
+## GitHub stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sinchanamuddi&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sinchanamuddi&layout=compact&theme=default&hide_border=true)
+
+</div>
+
+---
+
+## Experience
+
+| Role | Organisation | Period |
+|------|-------------|--------|
+| ML / GenAI Intern | Contriver Technologies | 2024 – present |
+| Data Science Intern | Cognetix | 2024 |
+
+---
+
+## Let's connect
+
+I'm always open to collaborating on interesting ML/AI problems, contributing to open source, or discussing ideas.
+
+**sinchanamuddi@gmail.com · [linkedin.com/in/sinchana-m-sd](https://linkedin.com/in/sinchana-m-sd)**
