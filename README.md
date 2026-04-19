@@ -70,14 +70,19 @@ I believe the best ML systems are invisible — they just work, reliably, at sca
 
 ---
 
-## GitHub stats
+## 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sinchanamuddi&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sinchanamuddi&layout=compact&theme=default&hide_border=true)
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sinchanamuddi&show_icons=true&theme=github_dark&hide_border=true&count_private=true&ring_color=1D9E75&title_color=1D9E75&icon_color=1D9E75" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sinchanamuddi&theme=github-dark-blue&hide_border=true&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75" />
 </div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinchanamuddi&layout=compact&theme=github_dark&hide_border=true&title_color=1D9E75" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sinchanamuddi&theme=github-compact&bg_color=0d1117&color=1D9E75&line=1D9E75&point=ffffff&hide_border=true" />
+</div>
+
+<br/>
 
 ---
 
