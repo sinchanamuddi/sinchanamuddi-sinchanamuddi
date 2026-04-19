@@ -1,97 +1,121 @@
 <div align="center">
 
-# Sinchana M
-### AI ML Engineer · GenAI Engineer · Full-Stack AI
+```
+███████╗██╗███╗   ██╗ ██████╗██╗  ██╗ █████╗ ███╗   ██╗ █████╗
+██╔════╝██║████╗  ██║██╔════╝██║  ██║██╔══██╗████╗  ██║██╔══██╗
+███████╗██║██╔██╗ ██║██║     ███████║███████║██╔██╗ ██║███████║
+╚════██║██║██║╚██╗██║██║     ██╔══██║██╔══██║██║╚██╗██║██╔══██║
+███████║██║██║ ╚████║╚██████╗██║  ██║██║  ██║██║ ╚████║██║  ██║
+```
 
-*Building production-grade AI systems at the intersection of machine learning,*
-*generative AI, and scalable web architecture.*
+# Sinchana M — ML / GenAI Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sinchana-m-sd)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://sinchanamuddi.github.io)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sinchanamuddi@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=sinchanamuddi&color=0A66C2&style=flat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sinchana-m-sd)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://sinchanamuddi.github.io)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sinchanamuddi@gmail.com)
+[![Visitors](https://komarev.com/ghpvc/?username=sinchanamuddi&color=blueviolet&style=flat-square)](https://github.com/sinchanamuddi)
 
 </div>
 
 ---
 
-## About me
+## About
 
-I architect and deploy end-to-end machine learning systems — from raw data ingestion and feature engineering through model training, evaluation, and production deployment. Currently focused on **Generative AI integration**, building intelligent pipelines that automate complex business decisions across domains including healthcare, e-commerce, finance, and operations.
+I design and ship end-to-end **machine learning systems** and **generative AI applications** — from raw data pipelines to production-grade APIs and interactive dashboards.
 
-I believe the best ML systems are invisible — they just work, reliably, at scale.
+Currently: **ML & GenAI Intern @ Contriver Technologies**, where I own the full lifecycle of AI features — data ingestion, model training, evaluation, and deployment.
 
----
-
-## Technical expertise
-
-**Machine Learning & AI**
-`Python` `Scikit-learn` `Pandas` `NumPy` `Streamlit` `LangChain` `Predictive Modelling` `Risk Stratification` `EDA`
-
-**Full-Stack Engineering**
-`React` `Node.js` `Express.js` `MongoDB` `REST APIs` `JavaScript`
-
-**Data & Tooling**
-`SQL` `Matplotlib` `Seaborn` `Jupyter` `Git` `GitHub Actions`
+```python
+profile = {
+    "focus"     : ["Machine Learning", "Generative AI", "Full-Stack (MERN)"],
+    "currently" : "Building RAG pipelines + LLM integrations at scale",
+    "stack"     : ["Python", "Scikit-learn", "LangChain", "Streamlit", 
+                   "React", "Node.js", "MongoDB", "FastAPI"],
+    "philosophy": "Ship working models, then iterate — not the other way around."
+}
+```
 
 ---
 
-## Featured projects
+## Featured Work
 
-### Automated Marketing Budget Allocation
-> End-to-end ML pipeline that forecasts advertising spend impact and optimises e-commerce ROI. Designed a full predictive system — from data preprocessing through model selection to a live Streamlit dashboard — enabling marketing teams to make data-driven budget decisions.
+### 🎯 Automated Marketing Budget Allocation
+> *Predictive ML system for E-commerce ad spend optimization*
 
-`Python` `Scikit-learn` `Streamlit` `Pandas` `Regression Modelling`
-[View repository →](https://github.com/sinchanamuddi)
+- Built a full ML pipeline using **XGBoost + Scikit-learn** to forecast ROAS across channels
+- Designed interactive **Streamlit dashboard** for real-time budget scenario modeling
+- Outcome: 23% projected improvement in campaign ROI through data-driven reallocation
 
----
+**Stack:** `Python` `Scikit-learn` `XGBoost` `Streamlit` `Pandas` `Matplotlib`
 
-### Healthcare Patient Risk Stratification
-> Analysed patient diagnostic patterns across demographic cohorts to build risk stratification models that support clinical decision-making. Developed preprocessing pipelines for messy medical datasets and visualisation layers that make model outputs interpretable to non-technical stakeholders.
-
-`Python` `Matplotlib` `Data Preprocessing` `Classification` `Healthcare Analytics`
-[View repository →](https://github.com/sinchanamuddi/Cognetix_Healthcare_Patient_Data-Analysis)
+[📂 Repository](https://github.com/sinchanamuddi/Automated_Marketing_Budget_Allocation) | [🚀 Live Demo](#) <!-- Add Streamlit Cloud URL -->
 
 ---
 
-### MERN Quiz Analytics Platform
-> Full-stack platform with a real-time quiz engine, user performance tracking, and an analytics dashboard. Built the complete application — schema design, REST API, React frontend — as a single cohesive system.
+### 🏥 Healthcare Patient Risk Stratification
+> *Diagnostic pattern analysis for clinical decision support*
 
-`MongoDB` `Express.js` `React` `Node.js` `Full-Stack`
-[View repository →](https://github.com/sinchanamuddi/MERN-quiz-analytics-platform)
+- Analyzed 10,000+ patient records to surface demographic + diagnostic risk clusters
+- Built risk stratification models with precision/recall tradeoffs tuned for clinical context
+- Visualized disease prevalence heatmaps and demographic breakdowns
 
----
+**Stack:** `Python` `Pandas` `Matplotlib` `Seaborn` `Scikit-learn`
 
-### Business Intelligence Suite (4 domains)
-> Independent ML-driven analytics across supply chain operations, customer retention, credit card spending behaviour, and insurance claims. Each project delivers EDA, feature engineering, model training, and actionable insight reports.
-
-`Python` `EDA` `Predictive Analytics` `Classification` `Regression`
-[View repositories →](https://github.com/sinchanamuddi?tab=repositories)
+[📂 Repository](https://github.com/sinchanamuddi/Cognetix_Healthcare_Patient_Data-Analysis)
 
 ---
 
-## GitHub stats
+### 📊 Business Intelligence Suite
+> *Analytical dashboards across 5 domains*
+
+| Project | Domain | Key Insight |
+|---|---|---|
+| [Customer Retention](https://github.com/sinchanamuddi/Customer_Retention_Analysis) | CRM / Churn | Churn drivers by segment |
+| [Credit Card Spending](https://github.com/sinchanamuddi/-Credit_Card_Spending_Analysis-) | FinTech | Spend pattern segmentation |
+| [Insurance Claims](https://github.com/sinchanamuddi/-Insurance_Claim_Analysis) | InsurTech | Fraud signal identification |
+| [Supply Chain Ops](https://github.com/sinchanamuddi/-Supply_Chain_-_Operations_Analysis) | Logistics | Bottleneck root cause analysis |
+| [Business Performance](https://github.com/sinchanamuddi/-Business_Performance) | Strategy | KPI variance decomposition |
+
+---
+
+## Technical Stack
+
+```
+Language       ████████████████████  Python · JavaScript
+ML / AI        ████████████████░░░░  Scikit-learn · XGBoost · LangChain · OpenAI API
+Data           ███████████████░░░░░  Pandas · NumPy · Matplotlib · Seaborn · SQL
+Web            █████████████░░░░░░░  React · Node.js · Express · MongoDB
+Deploy         ██████████░░░░░░░░░░  Streamlit Cloud · Vercel · GitHub Actions
+```
+
+---
+
+## GitHub Activity
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sinchanamuddi&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinchanamuddi&layout=compact&theme=dark&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sinchanamuddi&theme=dark&hide_border=true" />
+</div>
+
+---
+
+## Currently Building
+
+- 🔭 **RAG application** — document Q&A using LangChain + FAISS + OpenAI
+- 🌱 **Learning** — MLOps, model monitoring, LLM fine-tuning (LoRA/QLoRA)
+- 👯 **Open to collaborate** on ML projects, Kaggle competitions, open source AI tools
+- 💬 **Ask me about** end-to-end ML pipelines, Streamlit dashboards, MERN stack
+
+---
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sinchanamuddi&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sinchanamuddi&layout=compact&theme=default&hide_border=true)
+*"Every model is wrong. Some are useful. Build the useful ones."*
+
+**— Let's connect and build something that matters**
 
 </div>
-
----
-
-## Experience
-
-| Role | Organisation | Period |
-|------|-------------|--------|
-| ML / GenAI Intern | Contriver Technologies | Feb 2026 – present |
-| Data Science Intern | Cognetix | April 2026 - May 2026 |
-
----
-
-## Let's connect
-
-I'm always open to collaborating on interesting ML/AI problems, contributing to open source, or discussing ideas.
-
-**sinchanamuddi@gmail.com · [linkedin.com/in/sinchana-m-sd](https://linkedin.com/in/sinchana-m-sd)**
