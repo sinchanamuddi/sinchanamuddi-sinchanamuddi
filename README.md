@@ -22,19 +22,14 @@
 
 
 </div>
+<div align="center">
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sinchana-m-sd)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%231D9E75.svg?style=for-the-badge&logo=github&logoColor=white)](https://sinchanamuddi.github.io)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sinchanamuddi@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=sinchanamuddi&style=for-the-badge&color=1D9E75&label=PROFILE+VIEWS)](https://github.com/sinchanamuddi)
 
-</div>
-
-*Building production-grade AI systems at the intersection of machine learning,*
-*generative AI, and scalable web architecture.*
-
-
-</div>
 
 ---
 
