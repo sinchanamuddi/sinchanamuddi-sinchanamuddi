@@ -2,6 +2,11 @@
 
 # Sinchana M
 ### Senior ML Engineer · GenAI Systems Architect · Full-Stack AI
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                    ANIMATED WAVE HEADER                    -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1D9E75,100:0d1117&height=140&section=header&text=Hi%20👋%20I'm%20Sinchana%20M&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=ML%20Engineer%20·%20GenAI%20Builder%20·%20MERN%20Stack&descAlignY=68&descColor=1D9E75&descSize=14)
 
 <div align="center">
 
