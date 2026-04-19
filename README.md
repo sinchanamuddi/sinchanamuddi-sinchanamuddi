@@ -57,9 +57,8 @@ const sinchana = {
 };
 ```
 
-<br/>
 ---
-
+<br/>
 
 ## 🛠 Tech Stack
 
@@ -80,9 +79,8 @@ const sinchana = {
 
 </div>
 
-<br/>
 ---
-
+<br/>
 ## Featured projects
 
 ### Automated Marketing Budget Allocation
