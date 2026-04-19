@@ -21,6 +21,12 @@
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                       ABOUT ME                             -->
 <!-- ══════════════════════════════════════════════════════════ -->
+## About me
+
+I architect and deploy end-to-end machine learning systems — from raw data ingestion and feature engineering through model training, evaluation, and production deployment. Currently focused on **Generative AI integration**, building intelligent pipelines that automate complex business decisions across domains including healthcare, e-commerce, finance, and operations.
+
+I believe the best ML systems are invisible — they just work, reliably, at scale.
+
 
 ```javascript
 const sinchana = {
